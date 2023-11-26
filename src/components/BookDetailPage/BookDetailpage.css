@@ -1,0 +1,23 @@
+.container-book{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.container-image{
+    width: 500px;
+    height: 500px;
+    background-color: blanchedalmond;
+}
+.book{
+    margin-top: 25px;
+    width: 300px;
+}
+.container-text{
+    margin-left: 50px;
+    text-align: left;
+}
+.description-book{
+    width: 400px;
+    font-size: 15px;
+    font-weight: 700;
+}
